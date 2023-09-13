@@ -1,6 +1,6 @@
 # Kiddo companion robot
 
-An open-source DIY 3D-printable indoor companion robot with an omni-wheel base. The rubber-coated rollers are also DIY. Solidworks design files included!
+An open-source DIY 3D-printable home companion robot with an omni-wheel base. The rubber-coated rollers are also DIY. Solidworks design files included!
 
 Learn more at [Maker's Pet](https://makerspet.com/blog/meet-kiddo-pet-robot-model/)!
 
